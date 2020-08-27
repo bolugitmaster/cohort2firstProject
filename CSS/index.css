@@ -1,0 +1,114 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Work Sans', sans-serif;
+}
+
+.displayFlex {
+	display: flex;
+}
+
+.marginLeftFull {
+	margin-left: auto;
+}
+
+.navigation-items {
+	margin-left: 30px;
+}
+
+.navigation {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.button {
+	background: yellow;
+	border: 0;
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.large-button {
+	margin-top: 30px;
+
+	background: yellow;
+
+	border: 0;
+
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+	font-size: 16px;
+
+	border-radius: 5px;
+
+	cursor: pointer;
+}
+
+.blue-background {
+	background: #000473;
+	color: white;
+	height: 100vh;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.marginTop200 {
+	margin-top: 100px;
+}
+
+.my-auto {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.w-50 {
+	width: 50%;
+}
+
+.w-60 {
+	width: 60%;
+}
+
+.w-40 {
+	width: 40%;
+}
+
+.py-custom {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.px-100 {
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.sectionHeaderSize {
+	font-size: 34px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+section {
+	margin-bottom: 60px;
+}
+
+.card {
+	background: white;
+	padding: 40px;
+	border-radius: 5px;
+	width: 250px;
+	margin-right: 10px;
+	margin-top: 30px;
+}
